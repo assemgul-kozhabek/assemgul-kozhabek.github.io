@@ -1,10 +1,13 @@
 ### EDUCATION
+
 #### Department of Computing & Informatics, Faculty of Science and Technology, Bournemouth University, UK
 - PhD in Computer Science, 2019 - 2024
 - Dissertation title: Complex Urban Road Networks: Static Structures and Dynamic Processes
+
 #### Warwick Manufacturing Group (WMG), University of Warwick, UK
 - MSc in Engineering Business Management (with Distinction)
 - Dissertation title: Transportation Capacity Planning for mega-events
+
 #### Faculty of Mathematics and Mechanics, Al-Farabi Kazakh National University, Kazakhstan
 - BSc in Mathematical and Computer Modelling
 
