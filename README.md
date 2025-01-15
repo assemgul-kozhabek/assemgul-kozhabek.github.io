@@ -5,7 +5,7 @@
 #### Warwick Manufacturing Group (WMG), University of Warwick, UK
 - MSc in Engineering Business Management (with Distinction)
 - Dissertation title: Transportation Capacity Planning for mega-events
-#### Department of Mathematical & Computer Modelling, Faculty of Mathematics and Mechanics, Al-Farabi Kazakh National University, Kazakhstan
+#### Faculty of Mathematics and Mechanics, Al-Farabi Kazakh National University, Kazakhstan
 - BSc in Mathematical and Computer Modelling
 
 ### RESEARCH OVERVIEW
