@@ -1,9 +1,3 @@
-## Hi there 👋
-
-<!--
-**assemgul-kozhabek/assemgul-kozhabek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-#Here are some ideas to get you started:
 ### EDUCATION
 # Department of Computing & Informatics, Faculty of Science and Technology, Bournemouth University, UK
 PhD in Computer Science, 2019 - 2024 (expected)
