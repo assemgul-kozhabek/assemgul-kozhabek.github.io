@@ -31,14 +31,14 @@
 - A full match-funded PhD scholarship awardee from Bournemouth University and Bournemouth Cristchurch Poole (BCP) Council (tuition+housing+everyday expenses) June 2019
 - A full Governmental (Kazakhstan) "Bolashak" Scholarship awardee to study MSc degree (tuition+housing+visa, travel and everyday expenses) August 2012
 
-#### $${\color{blue}TEACHING QUALIFICATION}$$
+#### $${\color{blue}TEACHING}$$ $${\color{blue}QUALIFICATION}$$
 
 ##### Associate Fellow of the Higher education Academy (AFHEA) since December 2024
 
-#### $${\color{blue}MEMBERSHIPS IN PROFESSIONAL BODIES}$$
+#### $${\color{blue}MEMBERSHIPS}$$ $${\color{blue}IN}$$ $${\color{blue}PROFESSIONAL}$$ $${\color{blue}BODIES}$$
 - British Computer Society (BCS) since 2024;
 - Women in Network Science (WiNS) since 2023;
 - Young Researchers of the Complex Systems Society (yrCSS) since 2025.
 
 ##### 📫 How to reach me: assemgul.kozhabek@gmail.com
-##### ⚡ Fun fact: $${\color{green}I embrace minimalism and practice mindful under-consumption 🌍}$$
+##### ⚡ Fun fact: I embrace $${\color{green}minimalism}$$ and practice mindful $${\color{green}under-consumption}$$🌍
