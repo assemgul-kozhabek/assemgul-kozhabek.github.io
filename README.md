@@ -19,7 +19,7 @@
 
 - A. Kozhabek and W. K. Chai (2024). Robustness of Road Network Structures under Perturbations. Applied Network Science.
 
-## $${\color{blue}Selected AWARDS and GRANTS}$$
+## $${\color{blue}Selected}$$ $${\color{blue}AWARDS}$$ $${\color{blue}and}$$ $${\color{blue}GRANTS}$$
 
 - <a href="https://yrcss.cssociety.org/grants/secs/">Scholarship awardee for Events on Complex Systems (SECS)</a> (780€) to attend the Complex Networks 2024 Conference in Istanbul, Turkey (December 10-12, 2024) May 2024
 - Selected for the Alan Turing Institute (ATI) Data Study Group (September 9-13, 2024), a week-long data hackathon with academic and industry ties. Working on a Transport for London project. All expenses covered by ATI
