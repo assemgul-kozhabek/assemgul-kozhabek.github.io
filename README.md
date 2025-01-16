@@ -31,6 +31,6 @@
 - A full match-funded PhD scholarship awardee from Bournemouth University and Bournemouth Cristchurch Poole (BCP) Council (tuition+housing+everyday expenses) June 2019
 - A full Governmental (Kazakhstan) "Bolashak" Scholarship awardee to study MSc degree (tuition+housing+visa, travel and everyday expenses) August 2012
 
-  📫 How to reach me: assemgul.kozhabek@gmail.com
-  😄 Pronouns: she/her
-  ⚡ Fun fact:
+##### 📫 How to reach me: assemgul.kozhabek@gmail.com
+##### 😄 Pronouns: she/her
+##### ⚡ Fun fact:
