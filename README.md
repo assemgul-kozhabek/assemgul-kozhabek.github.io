@@ -40,5 +40,4 @@
 - Young Researchers of the Complex Systems Society (yrCSS) since 2025.
 
 ##### 📫 How to reach me: assemgul.kozhabek@gmail.com
-##### 😄 Pronouns: she/her
 ##### ⚡ Fun fact:
