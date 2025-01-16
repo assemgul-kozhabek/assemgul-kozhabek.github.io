@@ -1,4 +1,4 @@
-### EDUCATION
+### $${\color{blue}EDUCATION}$$
 
 #### Department of Computing & Informatics, Faculty of Science and Technology, Bournemouth University, UK
 - PhD in Computer Science, 2019 - 2024
