@@ -11,7 +11,7 @@
 #### Faculty of Mathematics and Mechanics, Al-Farabi Kazakh National University, Kazakhstan
 - BSc in Mathematical and Computer Modelling
 
-### RESEARCH OVERVIEW
+## $${\color{blue}RESEARCH}$$
 
 - A. Kozhabek, W. K. Chai and G. Zheng, Modeling Traffic Congestion Spreading Using a Topology-Based SIR Epidemic Model, in IEEE Access, vol. 12, pp. 35813-35826, 2024, <a href="https://ieeexplore.ieee.org/document/10445247">doi: 10.1109/ACCESS.2024.3370474</a> 
 
@@ -19,7 +19,7 @@
 
 - A. Kozhabek and W. K. Chai (2024). Robustness of Road Network Structures under Perturbations. Applied Network Science.
 
-### SELECTED AWARDS, GRANTS AND HONORS
+## $${\color{blue}Selected AWARDS and GRANTS}$$
 
 - <a href="https://yrcss.cssociety.org/grants/secs/">Scholarship awardee for Events on Complex Systems (SECS)</a> (780€) to attend the Complex Networks 2024 Conference in Istanbul, Turkey (December 10-12, 2024) May 2024
 - Selected for the Alan Turing Institute (ATI) Data Study Group (September 9-13, 2024), a week-long data hackathon with academic and industry ties. Working on a Transport for London project. All expenses covered by ATI
@@ -31,13 +31,14 @@
 - A full match-funded PhD scholarship awardee from Bournemouth University and Bournemouth Cristchurch Poole (BCP) Council (tuition+housing+everyday expenses) June 2019
 - A full Governmental (Kazakhstan) "Bolashak" Scholarship awardee to study MSc degree (tuition+housing+visa, travel and everyday expenses) August 2012
 
-####  TEACHING QUALIFICATION
+#### $${\color{blue}TEACHING QUALIFICATION}$$
+
 ##### Associate Fellow of the Higher education Academy (AFHEA) since December 2024
 
-#### MEMBERSHIPS IN PROFESSIONAL BODIES
+#### $${\color{blue}MEMBERSHIPS IN PROFESSIONAL BODIES}$$
 - British Computer Society (BCS) since 2024;
 - Women in Network Science (WiNS) since 2023;
 - Young Researchers of the Complex Systems Society (yrCSS) since 2025.
 
 ##### 📫 How to reach me: assemgul.kozhabek@gmail.com
-##### ⚡ Fun fact: I embrace minimalism and practice mindful under-consumption 🌍
+##### ⚡ Fun fact: $${\color{green}I embrace minimalism and practice mindful under-consumption 🌍}$$
