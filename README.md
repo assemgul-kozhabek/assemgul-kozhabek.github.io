@@ -1,4 +1,6 @@
-## EDUCATION
+## RESEARCHER
+
+### EDUCATION
 
 #### Department of Computing & Informatics, Faculty of Science and Technology, Bournemouth University, UK
 - PhD in Computer Science, 2019 - 2024
@@ -11,7 +13,7 @@
 #### Faculty of Mathematics and Mechanics, Al-Farabi Kazakh National University, Kazakhstan
 - BSc in Mathematical and Computer Modelling
 
-## RESEARCH
+### RESEARCH
 
 - A. Kozhabek, W. K. Chai and G. Zheng, Modeling Traffic Congestion Spreading Using a Topology-Based SIR Epidemic Model, in IEEE Access, vol. 12, pp. 35813-35826, 2024, <a href="https://ieeexplore.ieee.org/document/10445247">doi: 10.1109/ACCESS.2024.3370474</a> 
 
@@ -19,7 +21,7 @@
 
 - A. Kozhabek and W. K. Chai (2024). Robustness of Road Network Structures under Perturbations. Applied Network Science.
 
-## AWARDS and GRANTS
+### AWARDS and GRANTS
 
 - <a href="https://yrcss.cssociety.org/grants/secs/">Scholarship awardee for Events on Complex Systems (SECS)</a> (780€) to attend the Complex Networks 2024 Conference in Istanbul, Turkey (December 10-12, 2024) May 2024
 - Selected for the Alan Turing Institute (ATI) Data Study Group (September 9-13, 2024), a week-long data hackathon with academic and industry ties. Working on a Transport for London project. All expenses covered by ATI
