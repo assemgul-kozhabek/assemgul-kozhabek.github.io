@@ -36,9 +36,9 @@
 ##### Associate Fellow of the Higher education Academy (AFHEA) since December 2024
 
 #### MEMBERSHIPS IN PROFESSIONAL BODIES
-- British Computer Society (BCS) since 2024;
-- Women in Network Science (WiNS) since 2023;
-- Young Researchers of the Complex Systems Society (yrCSS) since 2025.
+- British Computer Society <a href="https://www.bcs.org/">(BCS)</a> since 2024;
+- Women in Network Science <a href="https://sites.google.com/view/womeninnetworkscience/">(WiNS)</a> since 2023;
+- Young Researchers of the Complex Systems Society <a href="https://yrcss.cssociety.org/">(yrCSS)</a> since 2025.
 
 ##### 📫 How to reach me: assemgul.kozhabek@gmail.com
 ##### ⚡ Fun fact: I embrace minimalism and practice mindful under-consumption🌍
