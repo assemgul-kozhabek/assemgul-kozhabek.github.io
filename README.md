@@ -1,4 +1,4 @@
-## RESEARCHER, PhD, AFHEA
+## Researcher, PhD, AFHEA
 
 ### EDUCATION
 
