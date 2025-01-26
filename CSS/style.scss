@@ -1,9 +1,10 @@
-.profile-picture {
-  width: 150px; /* You can adjust the size as needed */
-  height: 150px;
-  border-radius: 50%; /* This makes it circular */
-  object-fit: cover; /* Ensures the image covers the circle area without distortion */
+.social-links {
+  display: flex;
+  align-items: center;
+  justify-content: center; /* Centers the links horizontally */
+  margin-top: 10px; /* Optional: adds some space above the links */
 }
+
 .social-links a {
   text-decoration: none;
   color: #0077b5; /* LinkedIn blue, adjust for other links as needed */
