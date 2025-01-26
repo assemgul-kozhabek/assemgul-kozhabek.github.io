@@ -1,0 +1,27 @@
+.profile-picture {
+  width: 150px; /* You can adjust the size as needed */
+  height: 150px;
+  border-radius: 50%; /* This makes it circular */
+  object-fit: cover; /* Ensures the image covers the circle area without distortion */
+}
+.social-links a {
+  text-decoration: none;
+  color: #0077b5; /* LinkedIn blue, adjust for other links as needed */
+  margin-right: 15px;
+}
+
+.social-links .github {
+  color: #333;
+}
+
+.social-links .linkedin {
+  color: #0077b5;
+}
+
+.social-links .blog {
+  color: #333; /* You can change this to match your theme */
+}
+
+.social-links a:hover {
+  text-decoration: underline;
+}
