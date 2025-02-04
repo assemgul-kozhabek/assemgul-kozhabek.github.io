@@ -2,3 +2,14 @@ title: Dr. Assemgul Kozhabek
 logo: docs/assets/FSPA0183.JPG
 description: I am a Research Associate in Data Science with expertise with urban traffic data set analysis.
 theme: jekyll-theme-minimal
+
+# main links links
+main:
+  - title: "Research"
+    url: /research/
+
+  - title: "Blog"
+    url: /year-archive/
+
+  - title: "CV"
+    url: https://github.com/elizabethmcd/cv/blob/master/EAM-CV.pdf
