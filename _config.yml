@@ -6,7 +6,7 @@ theme: jekyll-theme-minimal
 # main links links
 main:
   - title: "Research"
-    url: /research/
+    url: https://scholar.google.com/citations?user=5jk11HoAAAAJ&hl=en
 
   - title: "Blog"
     url: /year-archive/
