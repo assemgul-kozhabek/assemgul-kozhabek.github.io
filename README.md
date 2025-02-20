@@ -4,7 +4,7 @@
 
 #### Department of Computing & Informatics, Faculty of Science and Technology, Bournemouth University, UK
 - PhD in Computer Science, 2019 - 2024
-- Dissertation title: Complex Urban Road Networks: Static Structures and Dynamic Processes
+- Dissertation title: <a href="https://eprints.bournemouth.ac.uk/40767/1/KOZHABEK%2C%20Assemgul_Ph.D._2024.pdf">Complex Urban Road Networks: Static Structures and Dynamic Processes</a>
 
 #### Warwick Manufacturing Group (WMG), University of Warwick, UK
 - MSc in Engineering Business Management (with Distinction)
