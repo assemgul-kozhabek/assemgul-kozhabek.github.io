@@ -35,7 +35,7 @@
 
 #### 📘 TEACHING QUALIFICATION
 
-##### Associate Fellow of the Higher education Academy (AFHEA) since December 2024
+#### Associate Fellow of the Higher education Academy (AFHEA) since December 2024
 
 #### 📘 MEMBERSHIPS IN PROFESSIONAL BODIES
 - British Computer Society <a href="https://www.bcs.org/">(BCS)</a> since 2024;
@@ -43,4 +43,4 @@
 - Young Researchers of the Complex Systems Society <a href="https://yrcss.cssociety.org/">(yrCSS)</a> since 2025.
 
 ##### 📫 How to reach me: assemgul.kozhabek@gmail.com
-##### ⚡ Fun fact: I embrace minimalism and practice mindful under-consumption🌍
+##### ⚡ Fun fact: Our <a href="https://journals.sagepub.com/doi/10.1177/23998083251318067">study on URNs</a> was featured in The Times of India! 📰 The <a href="https://timesofindia.indiatimes.com/city/ahmedabad/study-rates-efficiency-of-city-road-network/articleshow/119086477.cms">article</a> highlights our topological analysis of Ahmedabad and Surat.
