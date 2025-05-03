@@ -1,7 +1,7 @@
 title: "Dr. Assemgul Kozhabek"
 email: assemgul.kozhabek@gmail.com
 description: >-
-  Postdoctoral Researcher in Data Science, specializing in urban mobility and traffic data analysis.
+  Postdoctoral Researcher in Data Science.
 baseurl: ""
 url: "https://assemgul-kozhabek.github.io"
 
@@ -27,10 +27,6 @@ navigation:
   - title: "Home"
     url: /
   - title: "Research"
-    url: /research/
-  - title: "Blog"
-    url: /blog/
-  - title: "CV"
-    url: /cv/
-
+    url: /Research/
+  
 markdown: kramdown
