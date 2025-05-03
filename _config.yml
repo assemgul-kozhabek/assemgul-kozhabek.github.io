@@ -10,8 +10,8 @@ remote_theme: mmistakes/minimal-mistakes
 # Author settings
 author:
   avatar: "/docs/assets/FSPA0183.JPG"
-  bio: "Research Associate in Data Science"
-  location: "Your Institution or Location"
+  bio: "Postdoctoral Research Associate"
+  location: "Heriot-Watt University"
   links:
     - label: "LinkedIn"
       icon: "fab fa-linkedin"
