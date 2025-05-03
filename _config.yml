@@ -3,17 +3,7 @@ logo: docs/assets/FSPA0183.JPG
 description: I am a Research Associate in Data Science with expertise with urban traffic data set analysis.
 theme: jekyll-theme-minimal
 
-# Main navigation links
-main:
-  - title: "Research"
-    url: https://scholar.google.com/citations?user=5jk11HoAAAAJ&hl=en
-  - title: "Blog"
-    url: /year-archive/
-  - title: "CV"
-    url: https://github.com/elizabethmcd/cv/blob/master/EAM-CV.pdf
-
 # Social media links
 social:
-  github: https://github.com/YOUR_USERNAME
-  linkedin: https://www.linkedin.com/in/YOUR_USERNAME/
-  twitter: https://twitter.com/YOUR_USERNAME
+  linkedin: https://www.linkedin.com/in/assemgul-kozhabek-86a60510b/
+  Scholar: https://scholar.google.com/citations?hl=en&user=5jk11HoAAAAJ
