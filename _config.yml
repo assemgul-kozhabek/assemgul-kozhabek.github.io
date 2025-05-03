@@ -1,19 +1,16 @@
-# Site settings
 title: "Dr. Assemgul Kozhabek"
 email: assemgul.kozhabek@gmail.com
 description: >-
-  I am a PostDoc.
-baseurl: "" # Leave empty if deploying to root of your GitHub Pages repo
-url: "https://USERNAME.github.io" # Replace USERNAME with your GitHub username
+  Postdoctoral Researcher in Data Science, specializing in urban mobility and traffic data analysis.
+baseurl: ""
+url: "https://assemgul-kozhabek.github.io"
 
-# Theme
 remote_theme: mmistakes/minimal-mistakes
 
-# Author settings
 author:
   name: "Dr. Assemgul Kozhabek"
   avatar: "/docs/assets/FSPA0183.JPG"
-  bio: "Research Associate in Data Science"
+  bio: "Postdoctoral Researcher at Heriot-Watt University focusing on urban traffic data and intelligent transport systems."
   location: "Heriot-Watt University"
   links:
     - label: "LinkedIn"
@@ -23,12 +20,10 @@ author:
       icon: "fas fa-graduation-cap"
       url: "https://scholar.google.com/citations?hl=en&user=5jk11HoAAAAJ"
 
-# Plugins
 plugins:
   - jekyll-include-cache
 
-# Navigation links
-nav:
+navigation:
   - title: "Home"
     url: /
   - title: "Research"
@@ -38,5 +33,4 @@ nav:
   - title: "CV"
     url: /cv/
 
-# Optional: Markdown config
 markdown: kramdown
