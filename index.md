@@ -18,7 +18,3 @@ author_profile: true
 
 #### Faculty of Mathematics and Mechanics, Al-Farabi Kazakh National University, Kazakhstan
 - BSc in Mathematical and Computer Modelling
-
-
-- [Research](/Research/)
-- [CV](https://github.com/elizabethmcd/cv/blob/master/EAM-CV.pdf)
