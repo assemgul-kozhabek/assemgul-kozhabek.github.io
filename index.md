@@ -1,6 +1,7 @@
 ---
-layout: default
+layout: home
 title: Dr. Assemgul Kozhabek
+author_profile: true
 ---
 
 ![Profile Picture](docs/assets/FSPA0183.JPG)
