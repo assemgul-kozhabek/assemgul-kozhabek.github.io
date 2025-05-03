@@ -22,4 +22,3 @@ author_profile: true
 
 - [Research](/Research/)
 - [CV](https://github.com/elizabethmcd/cv/blob/master/EAM-CV.pdf)
-- [Blog](/blog/)
