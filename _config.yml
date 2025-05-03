@@ -1,7 +1,7 @@
 title: "Dr. Assemgul Kozhabek"
 email: assemgul.kozhabek@gmail.com
 description: >-
-  Postdoctoral Researcher | PhD | AFHEA
+  Postdoctoral Researcher | AFHEA
 baseurl: ""
 url: "https://assemgul-kozhabek.github.io"
 
@@ -9,7 +9,7 @@ remote_theme: mmistakes/minimal-mistakes
 
 author:
   avatar: "/docs/assets/FSPA0183.JPG"
-  bio: "Postdoctoral Researcher"
+  bio: "Postdoctoral Researcher | AFHEA"
   location: "Heriot-Watt University"
   links:
     - label: "LinkedIn"
