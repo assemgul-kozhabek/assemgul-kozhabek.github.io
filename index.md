@@ -3,8 +3,6 @@ layout: home
 author_profile: true
 ---
 
-## Researcher | PhD | AFHEA
-
 ### 📘 EDUCATION
 
 #### Department of Computing & Informatics, Faculty of Science and Technology, Bournemouth University, UK
