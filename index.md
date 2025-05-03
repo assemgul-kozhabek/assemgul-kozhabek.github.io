@@ -2,6 +2,9 @@
 layout: home
 title: Academic Profile
 author_profile: true
+show_excerpts: false
+entries_layout: list
+paginate: false
 ---
 
 📘 EDUCATION
