@@ -1,9 +1,42 @@
-title: Dr. Assemgul Kozhabek
-logo: docs/assets/FSPA0183.JPG
-description: I am a Research Associate in Data Science with expertise with urban traffic data set analysis.
-theme: jekyll-theme-minimal
+# Site settings
+title: "Dr. Assemgul Kozhabek"
+email: your-email@example.com
+description: >-
+  I am a Research Associate in Data Science with expertise in urban traffic data set analysis.
+baseurl: "" # Leave empty if deploying to root of your GitHub Pages repo
+url: "https://USERNAME.github.io" # Replace USERNAME with your GitHub username
 
-# Social media links
-social:
-  linkedin: https://www.linkedin.com/in/assemgul-kozhabek-86a60510b/
-  Scholar: https://scholar.google.com/citations?hl=en&user=5jk11HoAAAAJ
+# Theme
+remote_theme: mmistakes/minimal-mistakes
+
+# Author settings
+author:
+  name: "Dr. Assemgul Kozhabek"
+  avatar: "/docs/assets/FSPA0183.JPG"
+  bio: "Research Associate in Data Science"
+  location: "Your Institution or Location"
+  links:
+    - label: "LinkedIn"
+      icon: "fab fa-linkedin"
+      url: "https://www.linkedin.com/in/assemgul-kozhabek-86a60510b/"
+    - label: "Google Scholar"
+      icon: "fas fa-graduation-cap"
+      url: "https://scholar.google.com/citations?hl=en&user=5jk11HoAAAAJ"
+
+# Plugins
+plugins:
+  - jekyll-include-cache
+
+# Navigation links
+nav:
+  - title: "Home"
+    url: /
+  - title: "Research"
+    url: /research/
+  - title: "Blog"
+    url: /blog/
+  - title: "CV"
+    url: /cv/
+
+# Optional: Markdown config
+markdown: kramdown
