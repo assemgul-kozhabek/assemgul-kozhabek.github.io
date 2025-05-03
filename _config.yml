@@ -9,7 +9,6 @@ remote_theme: mmistakes/minimal-mistakes
 
 # Author settings
 author:
-  name: "Dr. Assemgul Kozhabek"
   avatar: "/docs/assets/FSPA0183.JPG"
   bio: "Research Associate in Data Science"
   location: "Your Institution or Location"
