@@ -30,11 +30,9 @@ plugins:
 # Navigation links
 nav:
   - title: "Home"
-    url: /
+    url: /https://assemgul-kozhabek.github.io/
   - title: "Research"
     url: /research/
-  - title: "Blog"
-    url: /blog/
   - title: "CV"
     url: /cv/
 
