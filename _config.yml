@@ -1,4 +1,4 @@
-
+# Site settings
 title: "Dr. Assemgul Kozhabek"
 email: assemgul.kozhabek@gmail.com
 description: >-
@@ -8,18 +8,12 @@ url: "https://USERNAME.github.io" # Replace USERNAME with your GitHub username
 
 # Theme
 remote_theme: mmistakes/minimal-mistakes
-title: "Dr. Assemgul Kozhabek"
-email: your-email@example.com
-baseurl: "" # Leave empty if deploying to root of your GitHub Pages repo
-url: "https://USERNAME.github.io" # Replace USERNAME with your GitHub username
-
-# Theme
-remote_theme: mmistakes/minimal-mistakes
 
 # Author settings
 author:
+  name: "Dr. Assemgul Kozhabek"
   avatar: "/docs/assets/FSPA0183.JPG"
-  bio: "Postdoctoral Research Associate"
+  bio: "Research Associate in Data Science"
   location: "Heriot-Watt University"
   links:
     - label: "LinkedIn"
@@ -36,9 +30,11 @@ plugins:
 # Navigation links
 nav:
   - title: "Home"
-    url: /https://assemgul-kozhabek.github.io/
+    url: /
   - title: "Research"
     url: /research/
+  - title: "Blog"
+    url: /blog/
   - title: "CV"
     url: /cv/
 
