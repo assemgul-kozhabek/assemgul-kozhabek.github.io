@@ -1,5 +1,6 @@
 ---
 layout: home
+title: Academic Profile
 author_profile: true
 ---
 
