@@ -45,3 +45,4 @@ paginate: false
 ##### ⚡ Fun fact: Our <a href="https://journals.sagepub.com/doi/10.1177/23998083251318067">study on URNs</a> was featured in The Times of India! 📰 The <a href="https://timesofindia.indiatimes.com/city/ahmedabad/study-rates-efficiency-of-city-road-network/articleshow/119086477.cms">article</a> highlights our topological analysis of Ahmedabad and Surat.
 
 - [Research](/Research/)
+- [Awards](/Awards/)
