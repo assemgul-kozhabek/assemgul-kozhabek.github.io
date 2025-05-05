@@ -34,3 +34,4 @@ paginate: false
 
 - [Research](/Research/)
 - [Awards](/Awards/)
+- [CV](/CV/)
