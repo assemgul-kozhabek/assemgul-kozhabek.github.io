@@ -1,7 +1,7 @@
 ---
 layout: single
-title: "Research Overview"
-permalink: /Research Overview/
+title: "Research"
+permalink: /Research/
 ---
 
 Welcome to my research page!
