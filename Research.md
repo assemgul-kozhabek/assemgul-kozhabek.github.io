@@ -1,13 +1,10 @@
 ---
 layout: single
 title: "Research"
-permalink: /research/
-author_profile: true
+permalink: /Research Overview/
 ---
 
-## Research Overview
-
-Here you can describe your key projects, publications, collaborations, datasets, etc.
+Welcome to my research page!
 
 ### Urban Traffic Analysis
 
