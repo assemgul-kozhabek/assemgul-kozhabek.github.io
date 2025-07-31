@@ -19,7 +19,7 @@
 
 - A. Kozhabek and W. K. Chai (2025). A Multi-scale Network-based Topological Analysis of Urban Road Networks in Highly Populated Cities. Environment and Planning B: Urban Analytics and City Science. <a href="https://journals.sagepub.com/doi/10.1177/23998083251318067">doi: 10.1177/23998083251318067</a>
 
-- A. Kozhabek and W. K. Chai (2024). Robustness of Road Network Structures under Perturbations. Applied Network Science.
+- Kozhabek, A., Chai, W.K. Robustness assessment of urban road networks in densely populated cities. Appl Netw Sci 10, 29 (2025). https://doi.org/10.1007/s41109-025-00707-w
 
 ### 📘 AWARDS and GRANTS
 
@@ -38,6 +38,7 @@
 #### Associate Fellow of the Higher education Academy (AFHEA) since December 2024
 
 #### 📘 MEMBERSHIPS IN PROFESSIONAL BODIES
+- The British Academy Early Career Researcher Network <a href="https://www.thebritishacademy.ac.uk/early-career-researcher-network/">(BA ECRN)</a> since 2025;
 - British Computer Society <a href="https://www.bcs.org/">(BCS)</a> since 2024;
 - Women in Network Science <a href="https://sites.google.com/view/womeninnetworkscience/">(WiNS)</a> since 2023;
 - Young Researchers of the Complex Systems Society <a href="https://yrcss.cssociety.org/">(yrCSS)</a> since 2025.
