@@ -15,7 +15,11 @@ Welcome to my research page!
 - A. Kozhabek and W. K. Chai (2024). Robustness of Road Network Structures under Perturbations. Applied Network Science.
   
 - "Complex Urban Road Networks: Static Structures and Dynamic Processes" – [PhD Dissertation](https://eprints.bournemouth.ac.uk/40767/1/KOZHABEK%2C%20Assemgul_Ph.D._2024.pdf)
+- Data Study Group Team. (2025). Data Study Group Final Report: Transport for London - Identifying physical assets on the London Underground (Version 1). The Alan Turing Institute. https://doi.org/10.5281/zenodo.15554124
+  
+- W. K. Chai, A. Kozhabek, and B. Dodwell. (2026) A longitudinal study of internet topology. Under review. (submitted to 
+IEEE/ACM Transactions on Networking).
 
 ### Ongoing Projects
 
-- Transport for London project (ATI Data Study Group)
+- 
