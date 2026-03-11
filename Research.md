@@ -16,7 +16,7 @@ Welcome to my research page!
   
 - "Complex Urban Road Networks: Static Structures and Dynamic Processes" – [PhD Dissertation](https://eprints.bournemouth.ac.uk/40767/1/KOZHABEK%2C%20Assemgul_Ph.D._2024.pdf)
   
-- Data Study Group Team. (2025). Data Study Group Final Report: Transport for London - Identifying physical assets on the London Underground (Version 1). The Alan Turing Institute.<a href="https://researchportal.hw.ac.uk/en/publications/data-study-group-final-report-transport-for-london/)">doi:10.5281/zenodo.15554124 </a>
+- Data Study Group Team. (2025). Data Study Group Final Report: Transport for London - Identifying physical assets on the London Underground (Version 1). The Alan Turing Institute. <a href="https://researchportal.hw.ac.uk/en/publications/data-study-group-final-report-transport-for-london/)">doi:10.5281/zenodo.15554124 </a>
   
 - W. K. Chai, A. Kozhabek, and B. Dodwell. (2026) A longitudinal study of internet topology. Under review. (submitted to 
 IEEE/ACM Transactions on Networking).
