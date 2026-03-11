@@ -21,9 +21,19 @@
 
 - Kozhabek, A., Chai, W.K. Robustness assessment of urban road networks in densely populated cities. Appl Netw Sci 10, 29 (2025). https://doi.org/10.1007/s41109-025-00707-w
 - Data Study Group Team. (2025). Data Study Group Final Report: Transport for London - Identifying physical assets on the London Underground (Version 1). The Alan Turing Institute. https://doi.org/10.5281/zenodo.15554124
+- W. K. Chai, A. Kozhabek, and B. Dodwell. (2026) A longitudinal study of internet topology. Under review. (submitted to 
+IEEE/ACM Transactions on Networking).
+- A. Kozhabek, D. Fanelli (2026) Seeing Science through Networks: Disciplinary Hardness and Softness (targeting 
+Scientometrics) In process.  
 
 ### 📘 AWARDS and GRANTS
-
+- Selected Speaker, Sunbelt Conference, Daytona Beach, USA (June 2026)
+- Finalist, STEM for Britain Poster Competition & Exhibition, UK Parliament (March 2026)
+- Selected Speaker, Women in Network Science (WiNS) Seminar Series (Feb 2026)
+- Selected Speaker, 14th Early Career Talks, IEEE Women in Engineering UK & Ireland (March 2025)
+- Invited Panelist, AESIN Conference – IEEE ITSS UK & Ireland Chapter (June 2025)
+- Finalist, British Data Awards 2025 – Data Team of the Year (>20 members), as part of a multi
+institutional Data Science team (May 2025)
 - <a href="https://yrcss.cssociety.org/grants/secs/">Scholarship awardee for Events on Complex Systems (SECS)</a> (780€) to attend the Complex Networks 2024 Conference in Istanbul, Turkey (December 10-12, 2024) May 2024
 - Selected for the Alan Turing Institute (ATI) Data Study Group (September 9-13, 2024), a week-long data hackathon with academic and industry ties. Working on a Transport for London project. All expenses covered by ATI
 - 2nd time Winner of Poster competition <a href="https://www.bcs.org/membership-and-registrations/member-communities/green-it-specialist-group/competitions/greenit-2024-competition/">“Green IT - Invest in our Planet”</a> from the British Computer Society (BCS) July 2024
