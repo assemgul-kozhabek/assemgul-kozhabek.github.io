@@ -20,9 +20,12 @@
 - A. Kozhabek and W. K. Chai (2025). A Multi-scale Network-based Topological Analysis of Urban Road Networks in Highly Populated Cities. Environment and Planning B: Urban Analytics and City Science. <a href="https://journals.sagepub.com/doi/10.1177/23998083251318067">doi: 10.1177/23998083251318067</a>
 
 - Kozhabek, A., Chai, W.K. Robustness assessment of urban road networks in densely populated cities. Appl Netw Sci 10, 29 (2025). https://doi.org/10.1007/s41109-025-00707-w
-- Data Study Group Team. (2025). Data Study Group Final Report: Transport for London - Identifying physical assets on the London Underground (Version 1). The Alan Turing Institute. https://doi.org/10.5281/zenodo.15554124
+  
+- Data Study Group Team. (2025). Data Study Group Final Report: Transport for London - Identifying physical assets on the London Underground (Version 1). The Alan Turing Institute. <a href="https://researchportal.hw.ac.uk/en/publications/data-study-group-final-report-transport-for-london/)">doi:10.5281/zenodo.15554124 </a>
+  
 - W. K. Chai, A. Kozhabek, and B. Dodwell. (2026) A longitudinal study of internet topology. Under review. (submitted to 
 IEEE/ACM Transactions on Networking).
+
 - A. Kozhabek, D. Fanelli (2026) Seeing Science through Networks: Disciplinary Hardness and Softness (targeting 
 Scientometrics) In process.  
 
