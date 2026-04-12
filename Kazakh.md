@@ -10,7 +10,7 @@ permalink: /Kazakh/
 <div class="news-carousel">
   <div class="slides">
     <div class="slide active">
-      <img src="{{ '/assets/elkz.jpg' | relative_url }}" alt="El.kz мақаласы">
+      <img src="{{ '/assets/elkz.jpg' | relative_url }}" alt="El.kz мақаласы" style="max-width:100%;">>
       <p><strong>El.kz</strong><br>
       Ажар Лаубаева.
       <a href="https://el.kz/keptelisti-basqaruga-bolady-otandyq-inzhener-galym-zhana-zhuye-usyndy_400045726/" target="_blank">
