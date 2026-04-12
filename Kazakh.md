@@ -47,6 +47,36 @@ permalink: /Kazakh/
     </p>
   </div>
 
+  <div class="slide">
+    <p><strong>The Times of India</strong><br>
+    Paul John.<br>
+    <a href="https://timesofindia.indiatimes.com/city/ahmedabad/study-rates-efficiency-of-city-road-network/articleshow/119086477.cms" target="_blank">
+    «Study rates “efficiency” of city road network | Ahmedabad»
+    </a><br>
+    17.03.2025.
+    </p>
+  </div>
+
+  <div class="slide">
+    <p><strong>aqshamnews.kz</strong><br>
+    Саягүл Әлімбекова.<br>
+    <a href="https://aqshamnews.kz/kz/article/qazaq-qyzy-ulybritaniiada-kolik-qozgalysyn-retteuge-ules-qosyp-jur.html" target="_blank">
+    «Қазақ қызы Ұлыбританияда көлік қозғалысын реттеуге үлес қосып жүр»
+    </a><br>
+    12.09.2021.
+    </p>
+  </div>
+
+  <div class="slide">
+    <p><strong>Qazaq Adebieti</strong><br>
+    Нұрлайым Батыр.<br>
+    <a href="https://qazaqadebieti.kz/11795/ala-oz-alysyn-retteu-ylymi-zertteudi-azhet-etedi" target="_blank">
+    «Қала қозғалысын реттеу – ғылыми зерттеуді қажет етеді»
+    </a><br>
+    01.09.2017.
+    </p>
+  </div>
+
   <button class="prev" onclick="moveSlide(-1)">❮</button>
   <button class="next" onclick="moveSlide(1)">❯</button>
 
