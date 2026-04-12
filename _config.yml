@@ -27,5 +27,7 @@ navigation:
     url: /
   - title: "Research"
     url: /Research/
+  - title: "Қазақша мағлұмат"
+    url: /Қазақша мағлұмат/
   
 markdown: kramdown
