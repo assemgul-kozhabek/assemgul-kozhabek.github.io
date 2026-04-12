@@ -41,7 +41,7 @@ permalink: /Kazakh/
   <div class="slide">
     <p><strong>HW News / NewsBeat</strong><br>
     <a href="https://heriotwatt.sharepoint.com/sites/Newsletter/SitePages/Postdoctoral%20researcher%20shares%20urban%20traffic%20insights%20at%20UK%20Parliament.aspx?startedResponseCatch=true" target="_blank">
-    Postdoctoral researcher shares urban traffic insights at UK Parliament
+     «Postdoctoral researcher shares urban traffic insights at UK Parliament»
     </a><br>
     25.03.2026.
     </p>
