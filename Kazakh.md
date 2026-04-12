@@ -10,7 +10,7 @@ permalink: /Kazakh/
 <div class="news-carousel">
   <div class="slides">
     <div class="slide active">
-      <img src="{{ '/assets/elkz.jpg' | relative_url }}" alt="El.kz мақаласы" style="max-width:100%;">>
+      <img src="{{ '/assets/elkz.jpg' | relative_url }}" alt="El.kz мақаласы" style="max-width:100%;">
       <p><strong>El.kz</strong><br>
       Ажар Лаубаева.
       <a href="https://el.kz/keptelisti-basqaruga-bolady-otandyq-inzhener-galym-zhana-zhuye-usyndy_400045726/" target="_blank">
@@ -19,7 +19,7 @@ permalink: /Kazakh/
     </div>
 
     <div class="slide">
-      <img src="{{ '/assets/ulysmedia.jpg' | relative_url }}" alt="Ulysmedia мақаласы">
+      <img src="{{ '/assets/ulysmedia.jpg' | relative_url }}" alt="Ulysmedia мақаласы" style="max-width:100%;">
       <p><strong>Ulysmedia</strong><br>
       Ақлима Джақсыбекова.
       <a href="https://qaz.ulysmedia.kz/news/38413-kazakstandyk-galym-britaniia-parlamentinde-gylymi-zhobasyn-tanystyrdy/" target="_blank">
