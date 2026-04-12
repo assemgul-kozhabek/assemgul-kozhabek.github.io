@@ -35,4 +35,4 @@ paginate: false
 - [Research](/Research/)
 - [Awards](/Awards/)
 - [CV](/CV/)
-- [Қазақша мағлұмат](/Қазақша/)
+- [Қазақша мағлұмат](/Kazakh/)
