@@ -10,7 +10,7 @@ permalink: /kazakh/
 <div class="news-carousel">
   <div class="slides">
     <div class="slide active">
-      <img src="/assets/elkz.jpg" alt="El.kz мақаласы">
+      <img src="/assets/elkz.jpeg" alt="El.kz мақаласы">
       <p><strong>El.kz</strong><br>
       Ажар Лаубаева.
       <a href="https://el.kz/keptelisti-basqaruga-bolady-otandyq-inzhener-galym-zhana-zhuye-usyndy_400045726/" target="_blank">
@@ -19,7 +19,7 @@ permalink: /kazakh/
     </div>
 
     <div class="slide">
-      <img src="/assets/ulysmedia.jpg" alt="Ulysmedia мақаласы">
+      <img src="/assets/ulysmedia.jpeg" alt="Ulysmedia мақаласы">
       <p><strong>Ulysmedia</strong><br>
       Ақлима Джақсыбекова.
       <a href="https://qaz.ulysmedia.kz/news/38413-kazakstandyk-galym-britaniia-parlamentinde-gylymi-zhobasyn-tanystyrdy/" target="_blank">
@@ -28,7 +28,7 @@ permalink: /kazakh/
     </div>
 
     <div class="slide">
-      <img src="/assets/khabar.jpg" alt="Khabar TV сюжеті">
+      <img src="/assets/khabar.jpeg" alt="Khabar TV сюжеті">
       <p><strong>Khabar TV</strong><br>
       <a href="https://www.youtube.com/watch?v=8fr18N5udA8" target="_blank">
       «Ұлыбританиядағы қазақ ғалымының жетістігі | Оян»
@@ -36,7 +36,7 @@ permalink: /kazakh/
     </div>
 
     <div class="slide">
-      <img src="/assets/hwnews.jpg" alt="HW News article">
+      <img src="/assets/hwnews.jpeg" alt="HW News article">
       <p><strong>HW News / NewsBeat</strong><br>
       <a href="https://heriotwatt.sharepoint.com/sites/Newsletter/SitePages/Postdoctoral%20researcher%20shares%20urban%20traffic%20insights%20at%20UK%20Parliament.aspx?startedResponseCatch=true" target="_blank">
       Postdoctoral researcher shares urban traffic insights at UK Parliament
