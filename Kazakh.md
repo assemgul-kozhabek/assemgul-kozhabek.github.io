@@ -10,7 +10,7 @@ permalink: /Kazakh/
 <div class="carousel">
 
   <div class="slide active">
-    <img src="/assets/el_kz.jpg" alt="El.kz мақаласы" class="slide-img">
+    <img src="/assets/elkz.jpg" alt="El.kz мақаласы" class="slide-img">
     <p><strong>El.kz</strong><br>
      журналист Ажар Лаубаева.<br>
     <a href="https://el.kz/keptelisti-basqaruga-bolady-otandyq-inzhener-galym-zhana-zhuye-usyndy_400045726/" target="_blank">
@@ -53,7 +53,7 @@ permalink: /Kazakh/
   </div>
 
   <div class="slide">
-    <img src="/assets/hw_news.jpg" alt="HW News мақаласы" class="slide-img">
+    <img src="/assets/hwnews.jpg" alt="HW News мақаласы" class="slide-img">
     <p><strong>HW News / NewsBeat</strong><br>
     <a href="https://heriotwatt.sharepoint.com/sites/Newsletter/SitePages/Postdoctoral%20researcher%20shares%20urban%20traffic%20insights%20at%20UK%20Parliament.aspx?startedResponseCatch=true" target="_blank">
      «Ұлыбритания парламентінде қалалық көлік қозғалысы туралы зерттеу нәтижелері ұсынылды»
