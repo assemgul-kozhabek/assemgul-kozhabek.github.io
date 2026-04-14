@@ -11,7 +11,7 @@ permalink: /Kazakh/
 
   <div class="slide active">
     <p><strong>El.kz</strong><br>
-    журналист Ажар Лаубаева.<br>
+    журналист Ажар Лаубаеваның мақаласы <br>
     <a href="https://el.kz/keptelisti-basqaruga-bolady-otandyq-inzhener-galym-zhana-zhuye-usyndy_400045726/" target="_blank">
     «Кептелісті басқаруға болады: отандық инженер-ғалым жаңа жүйе ұсынды»
     </a><br>
@@ -21,7 +21,7 @@ permalink: /Kazakh/
 
   <div class="slide">
     <p><strong>Ulysmedia</strong><br>
-    журналист Ақлима Джақсыбекова.<br>
+    журналист Ақлима Джақсыбекованың мақаласы <br>
     <a href="https://qaz.ulysmedia.kz/news/38413-kazakstandyk-galym-britaniia-parlamentinde-gylymi-zhobasyn-tanystyrdy/" target="_blank">
     «Қазақстандық ғалым Британия парламентінде ғылыми жобасын таныстырды»
     </a><br>
@@ -40,7 +40,7 @@ permalink: /Kazakh/
 
   <div class="slide">
     <p><strong>Shalqar радиосы</strong><br>
-    журналист Нұржамал Янгибаева.<br>
+    журналист Нұржамал Янгибаеваның мақаласы<br>
     <a href="https://qazradio.fm/shalqarfm/kz/audios/63937" target="_blank">
     «Құтты білік» бағдарламасы
     </a><br>
@@ -69,7 +69,7 @@ permalink: /Kazakh/
 
   <div class="slide">
     <p><strong>aqshamnews.kz</strong><br>
-    журналист Саягүл Әлімбекова.<br>
+    журналист Саягүл Әлімбекованың мақаласы <br>
     <a href="https://aqshamnews.kz/kz/article/qazaq-qyzy-ulybritaniiada-kolik-qozgalysyn-retteuge-ules-qosyp-jur.html" target="_blank">
     «Қазақ қызы Ұлыбританияда көлік қозғалысын реттеуге үлес қосып жүр»
     </a><br>
@@ -79,7 +79,7 @@ permalink: /Kazakh/
 
   <div class="slide">
     <p><strong>Qazaq Adebieti</strong><br>
-    журналист Нұрлайым Батыр.<br>
+    журналист Нұрлайым Батырдың мақаласы <br>
     <a href="https://qazaqadebieti.kz/11795/ala-oz-alysyn-retteu-ylymi-zertteudi-azhet-etedi" target="_blank">
     «Қала қозғалысын реттеу – ғылыми зерттеуді қажет етеді»
     </a><br>
