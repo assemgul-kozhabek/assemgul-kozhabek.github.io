@@ -11,11 +11,11 @@ permalink: /Kazakh/
 
   <div class="slide active">
     <p><strong>El.kz</strong><br>
-    журналист Ажар Лаубаеваның мақаласы <br>
     <a href="https://el.kz/keptelisti-basqaruga-bolady-otandyq-inzhener-galym-zhana-zhuye-usyndy_400045726/" target="_blank">
     «Кептелісті басқаруға болады: отандық инженер-ғалым жаңа жүйе ұсынды»
     </a><br>
-    06.04.2026.
+    06.04.2026<br>
+    журналист Ажар Лаубаеваның мақаласы 
     </p>
   </div>
 
