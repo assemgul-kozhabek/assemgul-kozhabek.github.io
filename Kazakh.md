@@ -21,7 +21,7 @@ permalink: /Kazakh/
   </div>
 
   <div class="slide">
-    <img src="../assets/ulysmedia.jpg" alt="Ulysmedia мақаласы" class="slide-img">
+    <img src="https://github.com/assemgul-kozhabek/assemgul-kozhabek.github.io/tree/main/docs/assets/ulysmedia.jpg" alt="Ulysmedia мақаласы" class="slide-img">
     <p><strong>Ulysmedia</strong><br>
     журналист Ақлима Джақсыбекова.<br>
     <a href="https://qaz.ulysmedia.kz/news/38413-kazakstandyk-galym-britaniia-parlamentinde-gylymi-zhobasyn-tanystyrdy/" target="_blank">
@@ -32,7 +32,7 @@ permalink: /Kazakh/
   </div>
 
   <div class="slide">
-    <img src="../assets/khabar.jpg" alt="Khabar TV бейнематериалы" class="slide-img">
+    <img src="https://github.com/assemgul-kozhabek/assemgul-kozhabek.github.io/tree/main/docs/assets/khabar.jpg" alt="Khabar TV бейнематериалы" class="slide-img">
     <p><strong>Khabar TV</strong><br>
     <a href="https://www.youtube.com/watch?v=8fr18N5udA8" target="_blank">
     «Ұлыбританиядағы қазақ ғалымының жетістігі | Оян»
@@ -42,7 +42,7 @@ permalink: /Kazakh/
   </div>
 
   <div class="slide">
-    <img src="../assets/shalqar.jpg" alt="Shalqar радиосы материалы" class="slide-img">
+    <img src="https://github.com/assemgul-kozhabek/assemgul-kozhabek.github.io/tree/main/docs/assets/shalqar.jpg" alt="Shalqar радиосы материалы" class="slide-img">
     <p><strong>Shalqar радиосы</strong><br>
     журналист Нұржамал Янгибаева.<br>
     <a href="https://qazradio.fm/shalqarfm/kz/audios/63937" target="_blank">
@@ -53,7 +53,7 @@ permalink: /Kazakh/
   </div>
 
   <div class="slide">
-    <img src="../assets/hwnews.jpg" alt="HW News мақаласы" class="slide-img">
+    <img src="https://github.com/assemgul-kozhabek/assemgul-kozhabek.github.io/tree/main/docs/assets/hwnews.jpg" alt="HW News мақаласы" class="slide-img">
     <p><strong>HW News / NewsBeat</strong><br>
     <a href="https://heriotwatt.sharepoint.com/sites/Newsletter/SitePages/Postdoctoral%20researcher%20shares%20urban%20traffic%20insights%20at%20UK%20Parliament.aspx?startedResponseCatch=true" target="_blank">
     «Ұлыбритания парламентінде қалалық көлік қозғалысы туралы зерттеу нәтижелері ұсынылды»
@@ -63,7 +63,7 @@ permalink: /Kazakh/
   </div>
 
   <div class="slide">
-    <img src="../assets/times_india.jpg" alt="The Times of India мақаласы" class="slide-img">
+    <img src="https://github.com/assemgul-kozhabek/assemgul-kozhabek.github.io/tree/main/docs/assets/times_india.jpg" alt="The Times of India мақаласы" class="slide-img">
     <p><strong>The Times of India</strong><br>
     Пол Джон.<br>
     <a href="https://timesofindia.indiatimes.com/city/ahmedabad/study-rates-efficiency-of-city-road-network/articleshow/119086477.cms" target="_blank">
@@ -74,7 +74,7 @@ permalink: /Kazakh/
   </div>
 
   <div class="slide">
-    <img src="../assets/aqshamnews.jpg" alt="aqshamnews.kz мақаласы" class="slide-img">
+    <img src="https://github.com/assemgul-kozhabek/assemgul-kozhabek.github.io/tree/main/docs/assets/aqshamnews.jpg" alt="aqshamnews.kz мақаласы" class="slide-img">
     <p><strong>aqshamnews.kz</strong><br>
     журналист Саягүл Әлімбекова.<br>
     <a href="https://aqshamnews.kz/kz/article/qazaq-qyzy-ulybritaniiada-kolik-qozgalysyn-retteuge-ules-qosyp-jur.html" target="_blank">
@@ -85,7 +85,7 @@ permalink: /Kazakh/
   </div>
 
   <div class="slide">
-    <img src="../assets/qazaq_adebieti.jpg" alt="Qazaq Adebieti мақаласы" class="slide-img">
+    <img src="https://github.com/assemgul-kozhabek/assemgul-kozhabek.github.io/tree/main/docs/assets/qazaq_adebieti.jpg" alt="Qazaq Adebieti мақаласы" class="slide-img">
     <p><strong>Qazaq Adebieti</strong><br>
     журналист Нұрлайым Батыр.<br>
     <a href="https://qazaqadebieti.kz/11795/ala-oz-alysyn-retteu-ylymi-zertteudi-azhet-etedi" target="_blank">
