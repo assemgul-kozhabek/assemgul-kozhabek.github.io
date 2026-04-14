@@ -21,11 +21,11 @@ permalink: /Kazakh/
 
   <div class="slide">
     <p><strong>Ulysmedia</strong><br>
-    журналист Ақлима Джақсыбекованың мақаласы <br>
     <a href="https://qaz.ulysmedia.kz/news/38413-kazakstandyk-galym-britaniia-parlamentinde-gylymi-zhobasyn-tanystyrdy/" target="_blank">
     «Қазақстандық ғалым Британия парламентінде ғылыми жобасын таныстырды»
     </a><br>
-    29.03.2026.
+    29.03.2026<br>
+    журналист Ақлима Джақсыбекованың мақаласы 
     </p>
   </div>
 
@@ -34,17 +34,17 @@ permalink: /Kazakh/
     <a href="https://www.youtube.com/watch?v=8fr18N5udA8" target="_blank">
     «Ұлыбританиядағы қазақ ғалымының жетістігі | Оян»
     </a><br>
-    30.03.2026.
+    30.03.2026
     </p>
   </div>
 
   <div class="slide">
     <p><strong>Shalqar радиосы</strong><br>
-    журналист Нұржамал Янгибаеваның мақаласы<br>
     <a href="https://qazradio.fm/shalqarfm/kz/audios/63937" target="_blank">
     «Құтты білік» бағдарламасы
     </a><br>
-    Қазақ тіліндегі материал
+    13.04.2026<br>
+    журналист Нұржамал Янгибаеваның мақаласы
     </p>
   </div>
 
@@ -53,37 +53,37 @@ permalink: /Kazakh/
     <a href="https://heriotwatt.sharepoint.com/sites/Newsletter/SitePages/Postdoctoral%20researcher%20shares%20urban%20traffic%20insights%20at%20UK%20Parliament.aspx?startedResponseCatch=true" target="_blank">
     «Ұлыбритания парламентінде қалалық көлік қозғалысы туралы зерттеу нәтижелері ұсынылды»
     </a><br>
-    25.03.2026.
+    25.03.2026
     </p>
   </div>
 
   <div class="slide">
     <p><strong>The Times of India</strong><br>
-    by Paul John <br>
     <a href="https://timesofindia.indiatimes.com/city/ahmedabad/study-rates-efficiency-of-city-road-network/articleshow/119086477.cms" target="_blank">
     «Study rates 'efficiency' of city road network | Ahmedabad»
     </a><br>
-    17.03.2025.
+    17.03.2025<br>
+    by Paul John 
     </p>
   </div>
 
   <div class="slide">
     <p><strong>aqshamnews.kz</strong><br>
-    журналист Саягүл Әлімбекованың мақаласы <br>
     <a href="https://aqshamnews.kz/kz/article/qazaq-qyzy-ulybritaniiada-kolik-qozgalysyn-retteuge-ules-qosyp-jur.html" target="_blank">
     «Қазақ қызы Ұлыбританияда көлік қозғалысын реттеуге үлес қосып жүр»
     </a><br>
-    12.09.2021.
+    12.09.2021<br>
+    журналист Саягүл Әлімбекованың мақаласы 
     </p>
   </div>
 
   <div class="slide">
     <p><strong>Qazaq Adebieti</strong><br>
-    журналист Нұрлайым Батырдың мақаласы <br>
     <a href="https://qazaqadebieti.kz/11795/ala-oz-alysyn-retteu-ylymi-zertteudi-azhet-etedi" target="_blank">
     «Қала қозғалысын реттеу – ғылыми зерттеуді қажет етеді»
     </a><br>
-    01.09.2017.
+    01.09.2017<br>
+    журналист Нұрлайым Батырдың мақаласы
     </p>
   </div>
 
