@@ -7,7 +7,15 @@ permalink: /Kazakh/
 Бұл парақша менің ана тілім – қазақ тілінде жүргізіледі. БАҚ-та біздің зерттеуіміз туралы жарияланған материалдар:
 
 <div class="carousel">
-
+<div class="slide">
+  <p><strong>«TAŃSHOLPAN» таңғы ақпаратты-сазды бағдарламасы</strong><br>
+  <a href="https://www.youtube.com/watch?v=OK_jecQs5zs" target="_blank">
+  «Ұлыбританиядағы көлік қозғалысын реттеуге үлес қосып жүрген қазақ қызы»
+  </a><br>
+  бейнематериал
+  </p>
+  
+</div>
   <div class="slide active">
     <p><strong>El.kz</strong><br>
     <a href="https://el.kz/keptelisti-basqaruga-bolady-otandyq-inzhener-galym-zhana-zhuye-usyndy_400045726/" target="_blank">
