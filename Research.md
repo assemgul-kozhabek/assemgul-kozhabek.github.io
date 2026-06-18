@@ -8,6 +8,8 @@ Welcome to my research page!
 
 ### Publications
 
+-  Chai, W. K., Kozhabek, A., & Dodwell, B. (2026). A 27-year Longitudinal Study on the Structure of the Internet Topology: Scale-freeness and Preferential Attachment. IEEE Transactions on Networking. <a href="https://ieeexplore.ieee.org/abstract/document/11558511?casa_token=qZ-33AIEGSAAAAAA:SOte5eYu6_UeDmq12uRj9koufzj-kAzsaYvu679kEGFIqXyg6ny9_aZoEq2Lvi5rrdVqUekJ6QI">doi: 10.1109/TON.2026.3702190</a> 
+
 - A. Kozhabek, W. K. Chai and G. Zheng, Modeling Traffic Congestion Spreading Using a Topology-Based SIR Epidemic Model, in IEEE Access, vol. 12, pp. 35813-35826, 2024, <a href="https://ieeexplore.ieee.org/document/10445247">doi: 10.1109/ACCESS.2024.3370474</a> 
 
 - A. Kozhabek and W. K. Chai (2025). A Multi-scale Network-based Topological Analysis of Urban Road Networks in Highly Populated Cities. Environment and Planning B: Urban Analytics and City Science. <a href="https://journals.sagepub.com/doi/10.1177/23998083251318067">doi: 10.1177/23998083251318067</a>
