@@ -8,7 +8,7 @@ Welcome to my research page!
 
 ### Publications
 
--  Chai, W. K., Kozhabek, A., & Dodwell, B. (2026). A 27-year Longitudinal Study on the Structure of the Internet Topology: Scale-freeness and Preferential Attachment. IEEE Transactions on Networking. <a href="https://ieeexplore.ieee.org/abstract/document/11558511?casa_token=qZ-33AIEGSAAAAAA:SOte5eYu6_UeDmq12uRj9koufzj-kAzsaYvu679kEGFIqXyg6ny9_aZoEq2Lvi5rrdVqUekJ6QI">doi: 10.1109/TON.2026.3702190</a> 
+-  Chai, W. K., Kozhabek, A., and Dodwell, B. (2026). A 27-year Longitudinal Study on the Structure of the Internet Topology: Scale-freeness and Preferential Attachment. IEEE Transactions on Networking. <a href="https://ieeexplore.ieee.org/abstract/document/11558511?casa_token=qZ-33AIEGSAAAAAA:SOte5eYu6_UeDmq12uRj9koufzj-kAzsaYvu679kEGFIqXyg6ny9_aZoEq2Lvi5rrdVqUekJ6QI">doi: 10.1109/TON.2026.3702190</a> 
 
 - A. Kozhabek, W. K. Chai and G. Zheng, Modeling Traffic Congestion Spreading Using a Topology-Based SIR Epidemic Model, in IEEE Access, vol. 12, pp. 35813-35826, 2024, <a href="https://ieeexplore.ieee.org/document/10445247">doi: 10.1109/ACCESS.2024.3370474</a> 
 
