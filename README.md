@@ -15,6 +15,9 @@
 
 ### 📘 RESEARCH
 
+- W. K. Chai, A. Kozhabek and B. Dodwell (2026). A 27-year Longitudinal Study on the Structure of the Internet 
+Topology: Scale- freeness and Preferential Attachment. IEEE Transactions on Networking.        
+
 - A. Kozhabek, W. K. Chai and G. Zheng, Modeling Traffic Congestion Spreading Using a Topology-Based SIR Epidemic Model, in IEEE Access, vol. 12, pp. 35813-35826, 2024, <a href="https://ieeexplore.ieee.org/document/10445247">doi: 10.1109/ACCESS.2024.3370474</a> 
 
 - A. Kozhabek and W. K. Chai (2025). A Multi-scale Network-based Topological Analysis of Urban Road Networks in Highly Populated Cities. Environment and Planning B: Urban Analytics and City Science. <a href="https://journals.sagepub.com/doi/10.1177/23998083251318067">doi: 10.1177/23998083251318067</a>
@@ -30,7 +33,11 @@ IEEE/ACM Transactions on Networking).
 Scientometrics) In process.  
 
 ### 📘 AWARDS and GRANTS
-- Selected Speaker, Sunbelt Conference, Daytona Beach, USA (June 2026)
+- INSNA Travel Grant (US$1,500), awarded by the International Network for Social Network Analysis (INSNA) to support 
+two talks and delivery of the workshop “Seeing Science through Networks: Disciplinary Hardness and Softness” at 
+Sunbelt 2026, Daytona Beach, USA (June 2026)
+- British Academy Early Career Researcher Network (ECRN) Development Fund – Stream 2: Personal and Professional 
+Development, awarded to support professional development and international research activities (Jan 2026) 
 - Finalist, STEM for Britain Poster Competition & Exhibition, UK Parliament (March 2026)
 - Selected Speaker, Women in Network Science (WiNS) Seminar Series (Feb 2026)
 - Selected Speaker, 14th Early Career Talks, IEEE Women in Engineering UK & Ireland (March 2025)
@@ -52,6 +59,7 @@ institutional Data Science team (May 2025)
 #### Associate Fellow of the Higher education Academy (AFHEA) since December 2024
 
 #### 📘 MEMBERSHIPS IN PROFESSIONAL BODIES
+- IEEE Intelligent Transportation Systems <a href="https://ieee-itss.org/">(ITSS)</a> since 2026;
 - The British Academy Early Career Researcher Network <a href="https://www.thebritishacademy.ac.uk/early-career-researcher-network/">(BA ECRN)</a> since 2025;
 - British Computer Society <a href="https://www.bcs.org/">(BCS)</a> since 2024;
 - Women in Network Science <a href="https://sites.google.com/view/womeninnetworkscience/">(WiNS)</a> since 2023;
